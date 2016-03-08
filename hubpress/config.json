@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "richard-popham",
-    "repositoryName": "richard-popham.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"richard-popham","repositoryName":"richard-popham.github.io","branch":"master"},"site":{"title":"Bits and Pieces ","url":"https://richard-popham.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//richard-popham.github.io/themes/Casper"}}
