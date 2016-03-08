@@ -1,0 +1,3 @@
+= Check crontab syntax
+
+http://cronwtf.github.io/ allows syntax checking and a read out of when the command will run
